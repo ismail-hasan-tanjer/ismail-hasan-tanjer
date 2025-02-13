@@ -1,10 +1,18 @@
-- 👋 Hi, I’m Md. Ismail Hasan Tanjer
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning complete webdevloper.
-- 💞️ I’m looking to collaborate on biginers.
-- 📫 How to reach me this profile. 
+👋 Hi, I’m Md. Ismail Hasan Tanjer
 
-<!---
-ismail-hasan-tanjer/ismail-hasan-tanjer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 About Me:
+
+I am an aspiring Data Scientist specializing in Machine Learning and Artificial Intelligence, dedicated to leveraging data-driven insights to solve complex problems.
+
+📚 Current Learning:
+
+I am currently enhancing my skills in web development to broaden my technical expertise.
+
+🤝 Collaboration Interests:
+
+I am open to collaborating with fellow enthusiasts and professionals in the fields of Data Science, Machine Learning, and AI.
+
+📫 How to Reach Me:
+
+You can connect with me through this GitHub profile.
+
