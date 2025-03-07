@@ -1,4 +1,4 @@
-### Hi there, I'm [Md. Ismail Hasan Tanjer](https://github.com/ismail-hasan-tanjer) 👋
+### Hi there, I'm [Md. Ismail Hasan Tanjer](https://github.com/ismail-hasan-tanjer) 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ismail-hasan-tanjer/ismail-hasan-tanjer/main/banner.png" alt="GitHub Banner">
@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-🎓 **Data Scientist | AI & Machine Learning Enthusiast | Web Developer**  
+🎓 **Data Scientist | AI & Machine Learning Enthusiast**  
 💡 Passionate about **AI, Data Science, Automation, and IT Solutions**  
 🌍 Open to **collaborations, research, and innovative projects**  
 
-With expertise in **Artificial Intelligence (AI), Machine Learning (ML), and Data Science**, I thrive on leveraging technology to solve real-world challenges. Additionally, I am expanding my skill set in **Web Development & Automation** to create intelligent and interactive applications. My passion lies in **building scalable AI models and data-driven solutions** that make a meaningful impact.
+With expertise in **Artificial Intelligence (AI), Machine Learning (ML), and Data Science**, I thrive on leveraging technology to solve real-world challenges. Additionally, I am expanding my skill set in **IoT & Automation** to create intelligent and interactive applications. My passion lies in **building scalable AI models and data-driven solutions** that make a meaningful impact.
 
 ---
 
