@@ -19,15 +19,33 @@ With expertise in **Artificial Intelligence (AI), Machine Learning (ML), and Dat
 
 ## 💡 Skills & Technologies
 
-🚀 **Programming Languages:** Python, SQL, C, C++
-📊 **Data Science & ML:** Pandas, PySpark, NumPy, Scikit-Learn, TensorFlow, PyTorch
-📊 **AI & Machine Learning:** Large Language Models (LLMs), Neural Networks, and Data Analysis
-📂 **Database Management:** SQL, MySQL, PostgreSQL, MongoDB  
-📈 **Data Visualization:** Power BI, Excel  
-🌐 **Web Technologies:** HTML, CSS, JavaScript, Bootstrap, PHP with Laravel.  
-🛠 **DevOps & Tools:** Azure, Git, GitHub, VS Code, Jupyter Notebook  
-📈 **Other Skills:** Data Visualization, Feature Engineering, Model Optimization, Big Data Analytics 
-📈 **Design & Productivity Tools:** Adobe Illustrator, Photoshop, Canva, MS Office
+🚀 **Programming Languages:**  
+Python, SQL, C, C++  
+
+📊 **Data Science & ML:**  
+Pandas, PySpark, NumPy, Scikit-Learn, TensorFlow, PyTorch  
+
+🤖 **AI & Machine Learning:**  
+Large Language Models (LLMs), Neural Networks, Data Analysis  
+
+📂 **Database Management:**  
+SQL, MySQL, PostgreSQL, MongoDB  
+
+📈 **Data Visualization:**  
+Power BI, Excel  
+
+🌐 **Web Technologies:**  
+HTML, CSS, JavaScript, Bootstrap, PHP with Laravel  
+
+🛠 **DevOps & Tools:**  
+Azure, Git, GitHub, VS Code, Jupyter Notebook  
+
+⚡ **Other Skills:**  
+Data Visualization, Feature Engineering, Model Optimization, Big Data Analytics  
+
+🎨 **Design & Productivity Tools:**  
+Adobe Illustrator, Photoshop, Canva, MS Office  
+
 
 ---
 
