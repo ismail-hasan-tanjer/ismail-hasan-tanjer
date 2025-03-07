@@ -1,6 +1,9 @@
 ### Hi there, I'm [Md. Ismail Hasan Tanjer](https://github.com/ismail-hasan-tanjer) 👋
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,data-science,ai)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ismail-hasan-tanjer/ismail-hasan-tanjer/main/banner.png" alt="GitHub Banner">
+</p>
+
 
 ---
 
