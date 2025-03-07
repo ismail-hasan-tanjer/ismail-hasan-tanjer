@@ -20,8 +20,10 @@ With expertise in **Artificial Intelligence (AI), Machine Learning (ML), and Dat
 ## 💡 Skills & Technologies
 
 🚀 **Programming Languages:** Python, SQL, C, C++
-📊 **Data Science & ML:** Pandas, PySpark, NumPy, Scikit-Learn, TensorFlow, PyTorch  
+📊 **Data Science & ML:** Pandas, PySpark, NumPy, Scikit-Learn, TensorFlow, PyTorch
+
 📊 **AI & Machine Learning:** Large Language Models (LLMs), Neural Networks, and Data Analysis
+
 📂 **Database Management:** SQL, MySQL, PostgreSQL, MongoDB  
 📈 **Data Visualization:** Power BI, Excel  
 🌐 **Web Technologies:** HTML, CSS, JavaScript, Bootstrap, PHP with Laravel.  
