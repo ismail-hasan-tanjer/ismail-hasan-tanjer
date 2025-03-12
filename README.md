@@ -66,7 +66,7 @@ Adobe Illustrator, Photoshop, Canva, MS Office
 
 📩 **Email:** [tanjerinfo@gmail.com](mailto:tanjerinfo@gmail.com)  
 💼 **LinkedIn:** [Md. Ismail Hasan Tanjer](https://www.linkedin.com/in/ismail-hasan-tanjer/)  
-📢 **Medium:** [My Blog](#) *(Coming Soon!)*  
+📢 **Medium:** [My Blog](#)   
 🌐 **Portfolio:** *(https://tanjerinfo.netlify.app/)*  
 
 ---
