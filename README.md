@@ -102,4 +102,4 @@ Adobe Illustrator, Photoshop, Canva, MS Office
 
 > **“Data is the new oil, but insight is the refinery.”** 🔥  
 
-<p align="center">✨ Thanks for visiting my GitHub! Keep innovating & keep learning! 🚀✨</p>
+<p align="center">✨ Thanks for visiting my GitHub! Keep innovating & keep learning! 🚀</p>
