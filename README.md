@@ -1,8 +1,8 @@
 ### Hi there, I'm [Md. Ismail Hasan Tanjer](https://github.com/ismail-hasan-tanjer) 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ismail-hasan-tanjer/ismail-hasan-tanjer/main/banner.png" alt="GitHub Banner">
-</p>
+
+![GitHub Banner](https://github.com/your-username/your-repo-name/blob/main/banner.png)
+
 
 
 ---
