@@ -1,10 +1,7 @@
 
-### Hi there, I'm [Md. Ismail Hasan Tanjer](https://github.com/ismail-hasan-tanjer) 
-
-
 ![GitHub Banner](https://github.com/ismail-hasan-tanjer/ismail-hasan-tanjer/blob/main/Tanjer-Github%20Banner_20250401_190408_0000.jpg)
 
-
+### Hi there, I'm [Md. Ismail Hasan Tanjer](https://github.com/ismail-hasan-tanjer) 
 
 ---
 
