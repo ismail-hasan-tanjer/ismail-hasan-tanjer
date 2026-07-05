@@ -89,7 +89,7 @@ Adobe Illustrator, Photoshop, Canva, MS Office
 ## 🚀 Featured Projects
 
 🔹 [**Loan Default Prediction**](https://github.com/ismail-hasan-tanjer/loan-default-prediction) - A predictive ML model for identifying loan defaulters.  
-🤖 [**AI Chatbot**](https://github.com/ismail-hasan-tanjer/ai-chatbot) - An NLP-driven chatbot using deep learning.  
+🤖 [**Sofwa-AI-Chatbot**](https://github.com/ismail-hasan-tanjer/sofwa-ai-chatbot) - An NLP-driven chatbot using deep learning.  
 📊 [**Stock Market Analysis**](https://github.com/ismail-hasan-tanjer/stock-market-analysis) - Data-driven insights on stock market trends.  
 🧠 [**Deep Learning Image Classifier**](https://github.com/ismail-hasan-tanjer/deep-learning-image-classifier) - A CNN model for image recognition.  
 
